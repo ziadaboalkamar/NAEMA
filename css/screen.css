@@ -1,0 +1,68 @@
+@media screen and (max-width: 1205px) {
+	._col_4 {
+	flex: 0 0 100% !important;
+    max-width: 100% !important;
+	}
+	._div {
+		margin-top: 42px;
+    	text-align: right;
+    	flex: 0 0 100% !important;
+    max-width: 100% !important;
+	}
+}
+@media screen and (max-width: 1048px) {
+	._cl {
+			flex: 0 0 100% !important;
+    max-width: 100% !important;
+	}
+}
+@media screen and (max-width: 898px) {
+	.right {
+		display: none;
+	}
+	._col_9 {
+		flex: 0 0 100% !important;
+    max-width: 100% !important;
+	}
+}
+@media screen and (max-width: 768px) {
+	.cont1 {
+		    max-width: 100% !important;
+	}
+}
+@media screen and (max-width: 678px) {
+	._div_1  a, ._div_2  a, ._div_3  a {
+		    border-radius: 7px;
+    padding: 7px;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-size: 12px;
+	}
+	._h2 h6 {
+		font-size: 18px;
+	}
+	.input {
+		    height: 43px;
+	}
+	.cont1 {
+		    padding-right: 0px !important;
+    padding-left: 0px !important;
+	}
+	._11 h6, ._form3_t h6, ._form3_3 h6 {
+		    color: #a0a0a0;
+    font-size: 16px;
+	}
+	.top-form1 ul li a {
+		font-size: 12px;
+	}
+	._12_1 a, ._12_2 a,._form3_t a {
+		padding: 7px;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-size: 12px;
+	}
+}
